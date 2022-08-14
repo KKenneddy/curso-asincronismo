@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/KKenneddy/curso-asincronismo/issues"
   },
-  "homepage": "https://github.com/KKenneddy/curso-asincronismo#readme"
+  "homepage": "https://github.com/KKenneddy/curso-asincronismo#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
