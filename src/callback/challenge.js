@@ -5,7 +5,7 @@
 //readyState === 4 'Completado';
 
 const XMLHttpRequest = require('xmlhttprequest').XMLHttpRequest;
-const API = 'https://api.escuelajs.com/api/v1';
+const API = 'https://api.escuelajs.co/api/v1';
 
 function fechtData (urlApi, callback) {
     let xhttp = new XMLHttpRequest();
